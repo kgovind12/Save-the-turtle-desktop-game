@@ -10,7 +10,7 @@ lose sound - Lysaura on www.freesound.org
 underwater background sound - Bpianoholic from www.freesound.org  
 **All sounds under creative commons license**
 
-**Special credits go to Prof. Katia Vega for help with ideation and code.**
+**Special credits go to UC Davis Prof. Katia Vega and Eldy Lázaro Vásquez for help with ideation and code.**
 
 
 ## How to play the game
