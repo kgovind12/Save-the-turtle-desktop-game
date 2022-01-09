@@ -27,7 +27,8 @@ Windows:
 1. Download the folder with the windows version corresponding to your operating system (application.windows64, application.windows32, etc.).
 2. Open the executable file, called turtle_game.exe. 
 3. Enjoy the game!
-
   
+  
+**Special credits go to Prof. Katia Vega for help with ideation and code.**
 
 _In case of any issues or questions, feel free to contact me at krithikagr@gmail.com._
