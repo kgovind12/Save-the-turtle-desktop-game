@@ -1,4 +1,4 @@
-# Save-the-turtle-game
+# Save the Turtle - Desktop Game
 
 Credits:
 
