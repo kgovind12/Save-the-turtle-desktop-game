@@ -10,6 +10,8 @@ lose sound - Lysaura on www.freesound.org
 underwater background sound - Bpianoholic from www.freesound.org  
 **All sounds under creative commons license**
 
+**Special credits go to Prof. Katia Vega for help with ideation and code.**
+
 
 ## How to play the game
 
@@ -28,7 +30,4 @@ Windows:
 2. Open the executable file, called turtle_game.exe. 
 3. Enjoy the game!
   
-  
-**Special credits go to Prof. Katia Vega for help with ideation and code.**
-
 _In case of any issues or questions, feel free to contact me at krithikagr@gmail.com._
